@@ -1,0 +1,9 @@
+{
+  "name": "vercel-protected-script",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Token-protected Vercel endpoint for serving a Lua script.",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
